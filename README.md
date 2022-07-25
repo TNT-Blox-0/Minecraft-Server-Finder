@@ -5,6 +5,10 @@ Checks random IP addresses for Minecraft servers using the official API and outp
 - Python 3
 - mcstatus module (can be installed with pip)
 
+# How to install
+
+You can download it from [here](https://raw.githubusercontent.com/TNT-Blox-0/Minecraft-Server-Finder/main/MC_Servers.py) with Ctrl+S.
+
 # How to use (Windows)
 Just double click `MC_Servers.py` or run it from the command line using `python MC_Servers.py` (make sure you `cd` into the right directory). When you're done, just X out the window, because I didn't implement an actual exit function.
 
